@@ -1,6 +1,6 @@
 # CeeJ's Atreus62 Keymap
 
-![atreus62 preview](https://github.com/cjmvincent/atreus62/blob/main/atreus62.jpg)
+![atreus62 preview](https://github.com/cjmvincent/atreus62/blob/main/atreus62.JPG)
 
 ## About this keeb:
 
